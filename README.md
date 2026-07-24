@@ -18,9 +18,6 @@ I use this space to document the systems I build while strengthening my skills a
 ### CyberFlow Sentinel — Network Intrusion Detection
 A machine-learning-based intrusion detection project for analysing network traffic and distinguishing benign activity from different categories of cyberattacks.
 
-### UniNav AI — Intelligent Campus Assistant
-An intelligent campus-support platform designed to help students discover university information, resources, locations, events, and academic services through a centralised interface. Currently in development.
-
 ### CampusFind — Campus Lost & Found Portal
 A Java-based campus lost-and-found management system built using JSP, Servlets, JDBC, MySQL, and MVC architecture. It supports item reporting, searching, claims, bookmarks, user approval, and administrative management.
 
